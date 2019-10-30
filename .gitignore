@@ -1,0 +1,6 @@
+.vscode/
+__venv__/
+__pycache__/
+dist/
+*.egg*
+.ipynb_checkpoints/
